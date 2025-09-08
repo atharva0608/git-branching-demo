@@ -1,2 +1,5 @@
 Initial file
+
 Line from Feature B
+Line from Feature A
+
